@@ -16,6 +16,8 @@ The Family Travel Tracker (Tech Stack: PostgreSQL, Express.js, React, Node.js)
  
  • Utilized PostgreSQL for reliable data storage, with pgAdmin4 employed for database management. Implemented complex
  SQL queries, including inner and equi-joins, to handle many-to-many relationships between related tables efficiently.
+ 
 
 #Basic Instructions -
+
  • Navigate to root repository and run "npm i" command in the terminal to install all the dependencies mentioned in the package.json before running the project.
