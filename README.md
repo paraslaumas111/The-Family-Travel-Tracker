@@ -1,4 +1,4 @@
-#About
+#About - 
 The Family Travel Tracker (Tech Stack: PostgreSQL, Express.js, React, Node.js)
  • Developed an interactive and visually appealing website for families to track and display their travel history across the
  globe.
