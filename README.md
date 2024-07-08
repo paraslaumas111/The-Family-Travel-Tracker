@@ -21,3 +21,6 @@ The Family Travel Tracker (Tech Stack: PostgreSQL, Express.js, React, Node.js)
 #Basic Instructions -
 
  • Navigate to root repository and run "npm i" command in the terminal to install all the dependencies mentioned in the package.json before running the project.
+
+ • To run this project you should have your data stored in postgreSQl, and edit the details of your DBMS software in the index.js "pg" object.
+
